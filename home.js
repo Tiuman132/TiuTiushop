@@ -71,9 +71,9 @@ shopButton.addEventListener("mouseleave", function() {
 
 // prev next button
 const bsImages = [
-    "Images/home-image2.png",
-    "Images/home-image3.png",
-    "Images/home-image.png"
+    "home-image2.png",
+    "home-image3.png",
+    "home-image.png"
 ];
 const firstImage = 0;
 const lastImage = bsImages.length - 1; // 2, since there are 3 images
